@@ -1,0 +1,14 @@
+body {
+  background: radial-gradient(circle, #0ce76b, #2268ff);
+}
+
+.signup-form {
+  max-width: 500px;
+  height: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
